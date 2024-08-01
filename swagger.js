@@ -5,7 +5,7 @@ const doc = {
     title: "ECOMMERCE API",
     description: "",
   },
-  host: "https://backend-ckbn.onrender.com/",
+  host: "backend-ckbn.onrender.com/",
   schema: ["https"],
 };
 
