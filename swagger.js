@@ -5,8 +5,8 @@ const doc = {
     title: "ECOMMERCE API",
     description: "",
   },
-  host: "localhost:5000",
-  schema: ["http"],
+  host: "https://backend-ckbn.onrender.com/",
+  schema: ["https"],
 };
 
 const outputFile = "./swagger.json";
