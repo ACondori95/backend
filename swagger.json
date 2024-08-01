@@ -7,7 +7,7 @@
   },
   "host": "backend-ckbn.onrender.com/",
   "basePath": "/",
-  "schemes": ["https"],
+  "schemes": ["http", "https"],
   "paths": {
     "/products/": {
       "get": {
